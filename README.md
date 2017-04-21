@@ -1,3 +1,9 @@
+<h1>Description</h1></br>
+Opensource WeeQuizz Solver for Chrome Extension by AlienHack </br>
+
+
+<h1>Detail</h1></br>
+
 This will show the correct result for WeeQuiz Site!
 Have you tired of guessing what are the correct answers in WeeQuizz site? Not anymore! With this extension, it will allow users to view the correct answer for every quiz !
 
